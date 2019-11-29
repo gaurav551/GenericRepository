@@ -1,0 +1,111 @@
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\app.db
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.deps.json
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.runtimeconfig.json
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.runtimeconfig.dev.json
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.dll
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.Views.dll
+C:\Users\DIPEN\Desktop\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.Views.pdb
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csprojAssemblyReference.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csproj.CoreCompileInputs.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfoInputs.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfo.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.TagHelpers.input.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.TagHelpers.output.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorCoreGenerate.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorTargetAssemblyInfo.cache
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorTargetAssemblyInfo.cs
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.Views.pdb
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.dll
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\DIPEN\Desktop\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csproj.CopyComplete
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csprojAssemblyReference.cache
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csproj.CoreCompileInputs.cache
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cache
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cs
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfoInputs.cache
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfo.cs
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.dll
+E:\dotNet core projects\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.dll
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\app.db
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.deps.json
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.dll
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.Views.dll
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\bin\Debug\netcoreapp2.2\genericRepo.Views.pdb
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.Views.pdb
+C:\Users\Lenovo\Desktop\DotNet\genericRepo\obj\Debug\netcoreapp2.2\genericRepo.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\app.db
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.deps.json
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.dll
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.Views.dll
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\bin\Debug\netcoreapp2.2\genericRepo.Views.pdb
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.Views.pdb
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.dll
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.pdb
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\genericRepo.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Product\New.g.cshtml.cs
+C:\Users\Lenovo\Desktop\Repository\Generic_Repository - Copy\obj\Debug\netcoreapp2.2\Razor\Views\Product\Detail.g.cshtml.cs

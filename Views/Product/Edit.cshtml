@@ -1,0 +1,9 @@
+@model Product
+<form asp-action="Update" asp-controller="Product">
+  <div class="form-group">
+    <label >ProductName</label>
+    <input type="hidden" asp-for="Id">
+    <input type="text" class="form-control" asp-for="ProductName" aria-describedby="Help" placeholder="Enter Product">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

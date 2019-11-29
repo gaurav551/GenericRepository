@@ -1,0 +1,30 @@
+@model List<Product>
+
+
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">ProductName</th>
+     
+      <th scope="colspan=3">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+      @foreach (var item in Model)
+      {
+        <tr>  
+      
+      <td>@item.Id</td>
+      <td>@item.ProductName</td>
+     <td> <a asp-action="Edit" asp-controller="Product" asp-route-id="@item.Id">Edit </a> </td>
+     <td> <a asp-action="Detail" asp-controller="Product" asp-route-id="@item.Id">Details </a></td>
+     <td><a asp-action="Delete" asp-controller="Product" asp-route-id="@item.Id">Delete </a></td>
+        </tr>
+      }
+    </tr>
+  </tbody>
+</table>
